@@ -4,8 +4,8 @@
 		<cconfiguration id="com.ti.ccstudio.buildDefinitions.TMS470.Debug.1815199940">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.ti.ccstudio.buildDefinitions.TMS470.Debug.1815199940" moduleId="org.eclipse.cdt.core.settings" name="Debug">
 				<macros>
-					<stringMacro name="CCS_PROJECT_DIR" type="VALUE_TEXT" value="D:\Embedded_Project\TivaC_BootLoader\Bootloader"/>
-					<stringMacro name="PROJECT_BUILD_DIR" type="VALUE_PATH_DIR" value="D:/Embedded_Project/TivaC_BootLoader/Bootloader/Debug"/>
+					<stringMacro name="CCS_PROJECT_DIR" type="VALUE_PATH_DIR" value="D:\Embedded_Project\TivaC_FBL\FBL"/>
+					<stringMacro name="PROJECT_BUILD_DIR" type="VALUE_PATH_DIR" value="D:\Embedded_Project\TivaC_FBL\FBL\Debug"/>
 				</macros>
 				<externalSettings/>
 				<extensions>

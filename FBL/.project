@@ -28,17 +28,17 @@
 		<link>
 			<name>shared</name>
 			<type>2</type>
-			<location>D:/Embedded_Project/TivaC_BootLoader/shared</location>
+			<location>D:/Embedded_Project/TivaC_FBL/shared</location>
 		</link>
 	</linkedResources>
 	<variableList>
 		<variable>
 			<name>CCS_PROJECT_DIR</name>
-			<value>file:/D:/Embedded_Project/TivaC_BootLoader/Bootloader</value>
+			<value>file:/D:/Embedded_Project/TivaC_FBL/FBL</value>
 		</variable>
 		<variable>
 			<name>PROJECT_BUILD_DIR</name>
-			<value>file:/D:/Embedded_Project/TivaC_BootLoader/Bootloader/Debug</value>
+			<value>file:/D:/Embedded_Project/TivaC_FBL/FBL/Debug</value>
 		</variable>
 	</variableList>
 </projectDescription>

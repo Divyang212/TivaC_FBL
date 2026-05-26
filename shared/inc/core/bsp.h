@@ -14,6 +14,8 @@
 #define LED_RED             (1U << 1)
 #define LED_BLUE            (1U << 2)
 #define LED_GREEN           (1U << 3)
+#define UART_RX             (1U << 0)
+#define UART_TX             (1U << 1)
 
 void systemClock_Config(void);
 void BSP_init(void);

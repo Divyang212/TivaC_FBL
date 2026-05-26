@@ -19,6 +19,7 @@ volatile uint64_t ticks;
 void SysTick_Handler(void)
 {
     ++ticks;
+
 }
 
 uint64_t get_tick(void)
