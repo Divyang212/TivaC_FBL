@@ -23,7 +23,7 @@ int main(void)
             start_time = get_tick();
         }
 
-        if(is_uart_data_available())
+        if(uart_data_available())
         {
             uint8_t data = uart_read_byte();
             uart_write_byte(data + 1);
