@@ -29,7 +29,7 @@ int main(void)
             uart_write_byte(data + 1);
         }
 
-        system_delay_ms(1000U);
+        system_delay_ms(5000U);
     }
 
 	return 0;
